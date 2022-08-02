@@ -1,6 +1,6 @@
 {
   "name": "gene-takovic-sports-talk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Gives you some of these sports talk like what Gene Takovic said from Better Call Saul.",
   "main": "index.js",
   "scripts": {
