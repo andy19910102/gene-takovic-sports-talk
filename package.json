@@ -1,0 +1,12 @@
+{
+  "name": "gene-takovic-sports-talk",
+  "version": "1.0.0",
+  "description": "Give you some of these sports talk like what Gene Takovic said from Better Call Saul.",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node usage-demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huang An Sheng",
+  "license": "MIT"
+}
