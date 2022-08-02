@@ -2,7 +2,7 @@
 
 Give you some of these sports talk like what Gene Takovic said from Better Call Saul.
 
-![gene-takovic-sports-talk](https://i.imgur.com/USCQWKU.jpg)
+<img src="https://i.imgur.com/USCQWKU.jpg" width="250px" alt="gene-takovic-sports-talk">
 
 ## Installation
 
