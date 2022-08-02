@@ -13,7 +13,7 @@ $ npm install gene-takovic-sports-talk
 ## Quick Start
 
 ```javascript
-const createGeneTakovic = require('./index');
+const createGeneTakovic = require("gene-takovic-sports-talk");
 
 const geneTakovic = createGeneTakovic();
 
@@ -32,7 +32,7 @@ geneTakovic.talk();
 ## Add customized phrase
 
 ```javascript
-const createGeneTakovic = require('./index');
+const createGeneTakovic = require("gene-takovic-sports-talk");
 
 const customizedPhraseList = [
     "That's great.",

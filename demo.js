@@ -1,4 +1,4 @@
-const createGeneTakovic = require('./index');
+const createGeneTakovic = require("gene-takovic-sports-talk");
 
 const customizedPhraseList = [
     "That's great.",
@@ -16,5 +16,5 @@ const geneTakovic = createGeneTakovic(customizedPhraseList);
 // geneTakovic.talkRandomly();
 
 // talk every once in a while
-geneTakovic.talkAll();
+geneTakovic.talkAll(600);
 
