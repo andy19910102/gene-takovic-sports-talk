@@ -1,19 +1,19 @@
 const createGeneTakovic = require('./index');
 
-const customizedSportsTalkList = [
+const customizedPhraseList = [
     "That's great.",
     "Sure, it was the best.",
     "Sometimes.",
     "That's true."
 ];
 
-const geneTakovic = createGeneTakovic(customizedSportsTalkList);
+const geneTakovic = createGeneTakovic(customizedPhraseList);
 
 // sports talk in order
-geneTakovic.talk();
+// geneTakovic.talk();
 
 // sports talk randomly
-geneTakovic.talkRandomly();
+// geneTakovic.talkRandomly();
 
 // talk every once in a while
 geneTakovic.talkAll();

@@ -28,3 +28,33 @@ geneTakovic.talk();
 geneTakovic.talk();
 // The worst!
 ```
+
+## Add customized phrase
+
+```javascript
+const createGeneTakovic = require('./index');
+
+const customizedPhraseList = [
+    "That's great.",
+    "Sure, it was the best.",
+    "Sometimes.",
+    "That's true."
+];
+
+const geneTakovic = createGeneTakovic(customizedPhraseList);
+
+geneTakovic.talkAll();
+/*
+I can't even talk about it
+How hard can it be
+I was thinking... Hey! this could be a long one!
+Maybe...
+The worst!
+I know!
+Me too.
+That's great.
+Sure, it was the best.
+Sometimes.
+That's true.
+*/
+```
